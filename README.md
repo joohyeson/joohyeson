@@ -28,6 +28,6 @@
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoohyeson&count_bg=%2322CC88&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%90%A3&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com&count_bg=%2322CC88&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%90%A3&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
